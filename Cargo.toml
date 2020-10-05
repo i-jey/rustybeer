@@ -10,3 +10,7 @@ edition = "2018"
 clap = "2.33.0"
 futures = "0.1.29"
 measurements = "0.2.1"
+
+
+[dev-dependencies]
+average = "0.10"
